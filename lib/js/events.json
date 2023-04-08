@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "title": "All Day Event",
+      "start": "2023-04-01",
+      "end": "2023-04-02",
+      "color": "blue"
+    },
+    {
+      "id": 2,
+      "title": "Long Event",
+      "start": "2023-04-07",
+      "end": "2023-04-10",
+      "color": "red",
+      "textColor": "yellow"
+    }
+]
